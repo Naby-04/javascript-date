@@ -14,7 +14,7 @@ body {
   border: 6px dashed orange;
   border-radius: 5px;
   padding: 25px;
-  min-width: 380px;
+  min-width: 300px;
 }
 /* box edit */
 .box {
@@ -27,7 +27,7 @@ input {
   background: rgb(255, 255, 255);
   color: #000;
   padding: 10px;
-  width: 300px;
+  width: 260px;
   text-align: center;
   border-radius: 5px;
   outline: none;
@@ -53,7 +53,7 @@ button:hover {
   color: #000;
   display: flex;
   display: none;
-  width: 300px;
+  width: 280px;
   animation: affichage 0.4s forwards;
 }
 
