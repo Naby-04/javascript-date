@@ -70,7 +70,7 @@ button:hover {
 }
 .answer-block {
   display: flex;
-  font-size: 12px;
+  font-size: 9px;
 }
 #date {
   font-weight: 900;
