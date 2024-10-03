@@ -52,13 +52,11 @@ button:hover {
   padding: 10px;
   color: #000;
   display: flex;
-  /* text-align: center; */
-  /* display: none; */
-}
-.answer_active {
-  display: inline;
+  display: none;
+  width: 300px;
   animation: affichage 0.4s forwards;
 }
+
 /* animation d'affichage */
 
 @keyframes affichage {
@@ -73,4 +71,8 @@ button:hover {
 }
 .answer-block {
   display: flex;
+}
+#date {
+  font-weight: 900;
+  background: #fff;
 }
